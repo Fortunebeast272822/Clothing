@@ -24,13 +24,16 @@ dd {
       background-color:#08191C;
       border: none;
       color: white;
-      text-align:center;
       text-decoration: none;
       display: inline-block;
       font-size: 16px;
       margin: 4px 2px;
       cursor: pointer;
     
+    }
+ .button1 {
+      padding: 10px 24px;
+      text-align:center;
     }
 
 
